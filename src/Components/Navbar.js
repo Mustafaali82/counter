@@ -4,7 +4,7 @@ import classes from './Navbar.module.css'
 const Navbar = () => {
   return (
     <nav className= {classes.navbar}>
-        <h1>COunter App</h1>
+        <h1>Counter App</h1>
     </nav>
   )
 }
